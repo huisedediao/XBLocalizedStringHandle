@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XBLocalizedStringHandle/LocalizedStringHandle.m"
+            timestampString = "514803195.646031"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "+handleOriginFileContent:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
+            timestampString = "538366262.0278879"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "XBLocalizedStringHandle"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
+            timestampString = "538366262.0283639"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
+            landmarkName = "-findLocalizedStringAtPath:needValue:componentsByFolder:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[XBLocalizedStringHandle findLocalizedStringAtPath:needValue:componentsByFolder:]"
+                  moduleName = "XBLocalizedStringHandle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xxb/Desktop/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
+                  timestampString = "516959584.605383"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "270"
+                  endingLineNumber = "270"
+                  offsetFromSymbolStart = "934">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[XBLocalizedStringHandle findLocalizedStringAtPath:needValue:componentsByFolder:]"
+                  moduleName = "XBLocalizedStringHandle"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xxb/Desktop/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
+                  timestampString = "516959584.60844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "270"
+                  endingLineNumber = "270"
+                  offsetFromSymbolStart = "942">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
