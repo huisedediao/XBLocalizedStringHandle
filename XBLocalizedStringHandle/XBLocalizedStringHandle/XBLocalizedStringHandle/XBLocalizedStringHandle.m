@@ -412,7 +412,7 @@
     NSString *folderName = nil;
     
     
-    NSString *tempStr = [[path stringByDeletingLastPathComponent] substringFromIndex:self.directoryPath.length];
+    NSString *tempStr = [[path stringByDeletingLastPathComponent] substringFromIndex:self.directoryPath.length - 1];
     if (tempStr.length > 0)
     {
         folderName = [[[tempStr substringFromIndex:1] componentsSeparatedByString:@"/"] firstObject];
