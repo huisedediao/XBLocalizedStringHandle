@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F1AD9B962125238B006CFC59 /* XBLocalizedStringHandle+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = F1AD9B952125238B006CFC59 /* XBLocalizedStringHandle+Extension.m */; };
 		F1EF8AB81EAF3DFB00FDFCAB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F1EF8AB71EAF3DFB00FDFCAB /* AppDelegate.m */; };
 		F1EF8ABB1EAF3DFB00FDFCAB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F1EF8ABA1EAF3DFB00FDFCAB /* main.m */; };
 		F1EF8ABE1EAF3DFB00FDFCAB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F1EF8ABD1EAF3DFB00FDFCAB /* ViewController.m */; };
@@ -37,6 +38,9 @@
 
 /* Begin PBXFileReference section */
 		F16CE3DE1EB0483300CE3594 /* XBLocalizedStringHandleHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XBLocalizedStringHandleHeader.h; sourceTree = "<group>"; };
+		F1AD9B942125238B006CFC59 /* XBLocalizedStringHandle+Extension.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "XBLocalizedStringHandle+Extension.h"; sourceTree = "<group>"; };
+		F1AD9B952125238B006CFC59 /* XBLocalizedStringHandle+Extension.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "XBLocalizedStringHandle+Extension.m"; sourceTree = "<group>"; };
+		F1AD9B97212525D3006CFC59 /* Header_XBLocalizedString.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header_XBLocalizedString.h; sourceTree = "<group>"; };
 		F1EF8AB31EAF3DFB00FDFCAB /* XBLocalizedStringHandle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XBLocalizedStringHandle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1EF8AB61EAF3DFB00FDFCAB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F1EF8AB71EAF3DFB00FDFCAB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -153,6 +157,9 @@
 				F1EF8AEF1EAF6A1200FDFCAB /* XBLocalizedStringHandle.h */,
 				F1EF8AF01EAF6A1200FDFCAB /* XBLocalizedStringHandle.m */,
 				F16CE3DE1EB0483300CE3594 /* XBLocalizedStringHandleHeader.h */,
+				F1AD9B942125238B006CFC59 /* XBLocalizedStringHandle+Extension.h */,
+				F1AD9B952125238B006CFC59 /* XBLocalizedStringHandle+Extension.m */,
+				F1AD9B97212525D3006CFC59 /* Header_XBLocalizedString.h */,
 			);
 			path = XBLocalizedStringHandle;
 			sourceTree = "<group>";
@@ -289,6 +296,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1AD9B962125238B006CFC59 /* XBLocalizedStringHandle+Extension.m in Sources */,
 				F1EF8AF11EAF6A1200FDFCAB /* LocalizedStringHandle.m in Sources */,
 				F1EF8ABE1EAF3DFB00FDFCAB /* ViewController.m in Sources */,
 				F1EF8AF21EAF6A1200FDFCAB /* XBLocalizedStringHandle.m in Sources */,

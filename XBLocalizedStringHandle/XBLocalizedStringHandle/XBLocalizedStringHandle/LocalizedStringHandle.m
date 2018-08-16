@@ -21,10 +21,10 @@
     //NSRegularExpression *regex = [NSRegularExpression regularExpressionWithPattern:@"NSLocalizedString\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|NSLocalizedStringFromTable\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|STR\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){1,2}\\)|(=\\s*@\".*?\"\\s*,?\\s*){1,1}" options:NSRegularExpressionCaseInsensitive error:&error];
     
 //    不包含@""
-//    NSRegularExpression *regex = [NSRegularExpression regularExpressionWithPattern:@"NSLocalizedString\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|NSLocalizedStringFromTable\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|STR\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){1,2}\\)" options:NSRegularExpressionCaseInsensitive error:&error];
+    NSRegularExpression *regex = [NSRegularExpression regularExpressionWithPattern:@"NSLocalizedString\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|NSLocalizedStringFromTable\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|STR\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){1,2}\\)" options:NSRegularExpressionCaseInsensitive error:&error];
     
     //只要有LocalizedString（@""）
-    NSRegularExpression *regex = [NSRegularExpression regularExpressionWithPattern:@"NSLocalizedString\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|STR\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){1,2}\\)" options:NSRegularExpressionCaseInsensitive error:&error];
+//    NSRegularExpression *regex = [NSRegularExpression regularExpressionWithPattern:@"NSLocalizedString\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|STR\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){1,2}\\)" options:NSRegularExpressionCaseInsensitive error:&error];
     
     
     //NSRegularExpression *regex = [NSRegularExpression regularExpressionWithPattern:@"NSLocalizedString\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){2,3}\\)|STR\\s*\\(((\\s*@\".*?\"\\s*,?\\s*)|\\s*nil\\s*,?\\s*){1,2}\\)" options:NSRegularExpressionCaseInsensitive error:&error];

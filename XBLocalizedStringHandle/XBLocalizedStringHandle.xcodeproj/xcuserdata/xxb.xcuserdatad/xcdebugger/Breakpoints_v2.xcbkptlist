@@ -22,17 +22,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
-            timestampString = "555823868.991658"
+            timestampString = "556081645.2611851"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "102"
-            endingLineNumber = "102"
-            landmarkName = "XBLocalizedStringHandle"
-            landmarkType = "3">
+            startingLineNumber = "454"
+            endingLineNumber = "454">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -42,13 +40,25 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
-            timestampString = "555823868.991796"
+            timestampString = "556081645.261652"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "304"
-            endingLineNumber = "304"
-            landmarkName = "-findLocalizedStringAtPath:needValue:componentsByFolder:"
-            landmarkType = "7">
+            startingLineNumber = "321"
+            endingLineNumber = "321">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
+            timestampString = "556081645.262032"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "303"
+            endingLineNumber = "303">
             <Locations>
                <Location
                   shouldBeEnabled = "Yes"
@@ -58,7 +68,7 @@
                   moduleName = "XBLocalizedStringHandle"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/xxb/git/github/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
-                  timestampString = "555823129.430804"
+                  timestampString = "556078409.080169"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "305"
@@ -73,7 +83,7 @@
                   moduleName = "XBLocalizedStringHandle"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/xxb/git/github/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
-                  timestampString = "555823129.433933"
+                  timestampString = "556078409.082944"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "305"
@@ -81,54 +91,6 @@
                   offsetFromSymbolStart = "942">
                </Location>
             </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
-            timestampString = "555823868.991892"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "300"
-            endingLineNumber = "300"
-            landmarkName = "-findLocalizedStringAtPath:needValue:componentsByFolder:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
-            timestampString = "555823868.991974"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "316"
-            endingLineNumber = "316"
-            landmarkName = "-handleContentWithFilePath:"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "XBLocalizedStringHandle/XBLocalizedStringHandle/XBLocalizedStringHandle.m"
-            timestampString = "555823868.992061"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "425"
-            endingLineNumber = "425"
-            landmarkName = "-addFolderNameToStringArrWithPath:"
-            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
